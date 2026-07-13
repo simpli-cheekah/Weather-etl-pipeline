@@ -1,0 +1,4 @@
+city,temperature_c,humidity_pct,weather_condition,wind_speed_mps,date_time
+Lagos,26.52,82,Rain,2.2,2026-07-13 09:28:08
+Abuja,22.73,91,Clouds,2.53,2026-07-13 09:28:34
+Ibadan,26.29,83,Rain,1.63,2026-07-13 09:31:58
